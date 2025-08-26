@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HealthTrackerApp</string>
+    <string name="today">Today\'s Summary</string>
+</resources>
